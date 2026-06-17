@@ -73,4 +73,4 @@ I build scalable web applications and intelligent software solutions by combinin
 ## 🔗 Contact
 
 * **Email:** kinjalsoneji26@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/kinjal-soneji-0260b1293/
+* **LinkedIn:** https://www.linkedin.com/in/kinjal-soneji
